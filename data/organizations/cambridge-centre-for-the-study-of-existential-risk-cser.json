@@ -1,0 +1,16 @@
+{
+  "id": "cambridge-centre-for-the-study-of-existential-risk-cser",
+  "name": "Cambridge Centre for the Study of Existential Risk (CSER)",
+  "category": "Academic centers",
+  "summary": "Technological tipping points, biosecurity, extreme risk mapping",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

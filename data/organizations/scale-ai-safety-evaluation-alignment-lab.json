@@ -1,0 +1,16 @@
+{
+  "id": "scale-ai-safety-evaluation-alignment-lab",
+  "name": "Scale AI (Safety, Evaluation & Alignment Lab)",
+  "category": "Commercial firms",
+  "summary": "SEAL leaderboards, public frontier model vulnerability benchmarks, human evaluations",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "epoch-ai",
+  "name": "Epoch AI",
+  "category": "Nonprofits & research",
+  "summary": "Compute trends, frontier capability trajectory, FrontierMath benchmark",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [
+    {
+      "id": "funding-disclosure",
+      "field": "funding",
+      "statement": "Epoch lists Coefficient Giving grants, including $8.5M in April 2025, alongside SFF, Jaan Tallinn, individual donors, and other support. It also discloses contractual relationships.",
+      "source_ids": [
+        "epoch-ai-funding"
+      ],
+      "evidence_type": "primary_source",
+      "review_status": "pending"
+    }
+  ],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "example-evaluator",
+  "name": "Example Evaluator",
+  "category": "Nonprofits & research",
+  "summary": "Describe the documented role.",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Contributor submission",
+    "note": "Add primary sources and claims before requesting review."
+  }
+}

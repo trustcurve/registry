@@ -1,0 +1,16 @@
+{
+  "id": "mlcommons-ai-safety-working-group",
+  "name": "MLCommons (AI Safety Working Group)",
+  "category": "Standards & alliances",
+  "summary": "Standardized benchmark suite for model hazard categories (v0.5/v1.0 standards)",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "apollo-research",
+  "name": "Apollo Research",
+  "category": "Nonprofits & research",
+  "summary": "Deceptive alignment, alignment-faking, model scheming detection",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [
+    {
+      "id": "funding-disclosure",
+      "field": "funding",
+      "statement": "Apollo reports seven philanthropic funding sources and two commercial contracts in its first-year update. Donor shares are not established by that update.",
+      "source_ids": [
+        "apollo-research-funding"
+      ],
+      "evidence_type": "primary_source",
+      "review_status": "pending"
+    }
+  ],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

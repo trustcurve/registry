@@ -1,0 +1,16 @@
+{
+  "id": "trail-of-bits-ai-security-division",
+  "name": "Trail of Bits (AI Security Division)",
+  "category": "Commercial firms",
+  "summary": "Supply-chain risk, ML model vulnerability audits, smart contract and ML red-teaming",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

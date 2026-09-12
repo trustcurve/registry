@@ -1,0 +1,16 @@
+name: Contribute research
+description: Organization or task, relevant experience, and first contribution
+body:
+  - type: textarea
+    id: contribution
+    attributes:
+      label: Organization or task, relevant experience, and first contribution
+    validations:
+      required: true
+  - type: textarea
+    id: relationship
+    attributes:
+      label: Relationship or conflicts
+      description: State relevant ties, or enter None. Do not include private information.
+    validations:
+      required: true

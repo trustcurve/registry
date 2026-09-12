@@ -1,0 +1,16 @@
+{
+  "id": "harvard-berkman-klein-center",
+  "name": "Harvard Berkman Klein Center",
+  "category": "Academic centers",
+  "summary": "Ethics, governance, participatory evaluation of automated systems",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

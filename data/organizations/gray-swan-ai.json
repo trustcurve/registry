@@ -1,0 +1,27 @@
+{
+  "id": "gray-swan-ai",
+  "name": "Gray Swan AI",
+  "category": "Commercial firms",
+  "summary": "Automated frontier model jailbreak auditing, adversarial testing (Cygnet)",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [
+    {
+      "id": "funding-disclosure",
+      "field": "funding",
+      "statement": "Gray Swan announced a $40M Series A on May 28, 2026, co-led by Wing Venture Capital and Madrona, with additional investors.",
+      "source_ids": [
+        "gray-swan-ai-funding"
+      ],
+      "evidence_type": "primary_source",
+      "review_status": "pending"
+    }
+  ],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

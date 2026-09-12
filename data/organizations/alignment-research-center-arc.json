@@ -1,0 +1,27 @@
+{
+  "id": "alignment-research-center-arc",
+  "name": "Alignment Research Center (ARC)",
+  "category": "Nonprofits & research",
+  "summary": "Theoretical alignment (Eliciting Latent Knowledge), origin of ARC Evals",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [
+    {
+      "id": "funding-disclosure",
+      "field": "funding",
+      "statement": "Future of Life Institute lists a $1,401,000 grant to ARC in its 2023 annual report. This historical grant does not establish current funding shares.",
+      "source_ids": [
+        "alignment-research-center-arc-funding"
+      ],
+      "evidence_type": "primary_source",
+      "review_status": "pending"
+    }
+  ],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

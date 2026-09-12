@@ -1,0 +1,27 @@
+{
+  "id": "mindgard",
+  "name": "Mindgard",
+  "category": "Commercial firms",
+  "summary": "Continuous automated red-teaming, attack surface mapping for enterprise LLMs",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [
+    {
+      "id": "funding-disclosure",
+      "field": "funding",
+      "statement": "Mindgard announced a $30M Series A on August 12, 2026, led by Album VC, with Karma Ventures and existing investors.",
+      "source_ids": [
+        "mindgard-funding"
+      ],
+      "evidence_type": "primary_source",
+      "review_status": "pending"
+    }
+  ],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

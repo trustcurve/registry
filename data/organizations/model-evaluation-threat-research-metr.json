@@ -1,0 +1,27 @@
+{
+  "id": "model-evaluation-threat-research-metr",
+  "name": "Model Evaluation & Threat Research (METR)",
+  "category": "Nonprofits & research",
+  "summary": "Autonomous replication, cyber offensive capabilities, catastrophic threat modeling",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [
+    {
+      "id": "funding-disclosure",
+      "field": "funding",
+      "statement": "METR reports about $71M in commitments in the six months to August 2026. Named supporters include Audacious, Sijbrandij, Pew, Schmidt Sciences, Packard, and individuals. It reports no funding from frontier AI companies, but substantial free evaluation tokens.",
+      "source_ids": [
+        "model-evaluation-threat-research-metr-funding"
+      ],
+      "evidence_type": "primary_source",
+      "review_status": "pending"
+    }
+  ],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

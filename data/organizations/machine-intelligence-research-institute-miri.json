@@ -1,0 +1,16 @@
+{
+  "id": "machine-intelligence-research-institute-miri",
+  "name": "Machine Intelligence Research Institute (MIRI)",
+  "category": "Nonprofits & research",
+  "summary": "Mathematical foundations of AGI alignment, foundational risk theory",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

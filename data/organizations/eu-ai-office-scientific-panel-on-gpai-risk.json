@@ -1,0 +1,16 @@
+{
+  "id": "eu-ai-office-scientific-panel-on-gpai-risk",
+  "name": "EU AI Office (Scientific Panel on GPAI Risk)",
+  "category": "Government bodies",
+  "summary": "Auditing systemic risk general-purpose models, enforcing EU AI Act Article 51+",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

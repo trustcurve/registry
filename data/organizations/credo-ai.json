@@ -1,0 +1,16 @@
+{
+  "id": "credo-ai",
+  "name": "Credo AI",
+  "category": "Commercial firms",
+  "summary": "Governance, risk, and compliance (GRC) software mapped to NIST AI RMF and EU AI Act",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

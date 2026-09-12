@@ -1,0 +1,37 @@
+{
+  "id": "center-for-ai-safety-cais",
+  "name": "Center for AI Safety (CAIS)",
+  "category": "Nonprofits & research",
+  "summary": "WMDP biosecurity benchmark, catastrophic risk advocacy, compute thresholds",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [
+    {
+      "id": "funding-disclosure",
+      "field": "funding",
+      "statement": "Coefficient Giving identifies CAIS as a grantee in its 2023 progress report. The report does not establish its share of CAIS funding.",
+      "source_ids": [
+        "center-for-ai-safety-cais-funding"
+      ],
+      "evidence_type": "primary_source",
+      "review_status": "pending"
+    },
+    {
+      "id": "policy-position",
+      "field": "policy_position",
+      "statement": "CAIS reports that its separate Action Fund cosponsored SB 1047 in 2024. This is documented policy advocacy, not a party affiliation.",
+      "source_ids": [
+        "center-for-ai-safety-cais-policy"
+      ],
+      "evidence_type": "self_disclosure",
+      "review_status": "pending"
+    }
+  ],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

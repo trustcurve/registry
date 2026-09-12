@@ -1,0 +1,16 @@
+{
+  "id": "nyu-center-for-data-science-alignment-labs",
+  "name": "NYU Center for Data Science / Alignment Labs",
+  "category": "Academic centers",
+  "summary": "Behavioral evaluations, out-of-distribution robustness (Sam Bowman's group)",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

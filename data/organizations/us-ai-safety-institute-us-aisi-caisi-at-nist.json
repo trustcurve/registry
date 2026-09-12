@@ -1,0 +1,16 @@
+{
+  "id": "us-ai-safety-institute-us-aisi-caisi-at-nist",
+  "name": "US AI Safety Institute (US AISI / CAISI at NIST)",
+  "category": "Government bodies",
+  "summary": "Pre-deployment frontier testing, critical infrastructure risk, biosecurity validation",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

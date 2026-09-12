@@ -1,0 +1,27 @@
+{
+  "id": "robust-intelligence-acquired-by-cisco",
+  "name": "Robust Intelligence (Acquired by Cisco)",
+  "category": "Commercial firms",
+  "summary": "Automated model validation, continuous adversarial testing, guardrail firewalls",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [
+    {
+      "id": "funding-disclosure",
+      "field": "funding",
+      "statement": "Cisco reports completing its acquisition of Robust Intelligence on September 24, 2024. Ownership is documented; a standalone current funding breakdown is not.",
+      "source_ids": [
+        "robust-intelligence-acquired-by-cisco-funding"
+      ],
+      "evidence_type": "primary_source",
+      "review_status": "pending"
+    }
+  ],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

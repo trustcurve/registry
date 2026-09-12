@@ -1,0 +1,16 @@
+{
+  "id": "center-for-security-and-emerging-technology-cset-georgetown",
+  "name": "Center for Security and Emerging Technology (CSET - Georgetown)",
+  "category": "Academic centers",
+  "summary": "Hardware tracking, compute export controls, national security risk evaluation",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}

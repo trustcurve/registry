@@ -1,0 +1,16 @@
+name: Suggest an organization
+description: Name, website, role, and primary sources
+body:
+  - type: textarea
+    id: contribution
+    attributes:
+      label: Name, website, role, and primary sources
+    validations:
+      required: true
+  - type: textarea
+    id: relationship
+    attributes:
+      label: Relationship or conflicts
+      description: State relevant ties, or enter None. Do not include private information.
+    validations:
+      required: true

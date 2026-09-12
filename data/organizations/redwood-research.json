@@ -1,0 +1,27 @@
+{
+  "id": "redwood-research",
+  "name": "Redwood Research",
+  "category": "Nonprofits & research",
+  "summary": "AI Control protocols, untrusted model containment, interpretability",
+  "website": null,
+  "review_status": "pending",
+  "political_affiliation": {
+    "status": "unknown"
+  },
+  "claims": [
+    {
+      "id": "funding-disclosure",
+      "field": "funding",
+      "statement": "Coefficient Giving reports major grants to Redwood Research in its 2021 progress report. Current donor shares are not established by this historical source.",
+      "source_ids": [
+        "redwood-research-funding"
+      ],
+      "evidence_type": "primary_source",
+      "review_status": "pending"
+    }
+  ],
+  "provenance": {
+    "origin": "Initial user-supplied directory; imported 2026-09-12",
+    "note": "Name, category, and summary await source review. Unsourced funding and political characterizations excluded."
+  }
+}
